@@ -19,7 +19,7 @@ Chương trình có các chức năng sau:
 
 # Cài đặt
 Đồ án sử dụng thư viện giao diện winbgim.h, chạy trên IDE DevC++.
-1. Cài đặt thư viện winbgim. [https://cachhoc.net/2013/10/03/cc-do-hoa-trong-dev-c/](Xem hướng dẫn cài đặt tại đây)
+1. Cài đặt thư viện winbgim. [Xem hướng dẫn cài đặt tại đây](https://cachhoc.net/2013/10/03/cc-do-hoa-trong-dev-c/)
 2. Tải về và giải nén source code.
 3. Mở file `QuanLyThuVien.dev` bằng DevC++ và run project.
 
