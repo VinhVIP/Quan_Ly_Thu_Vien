@@ -1,4 +1,4 @@
-# Đồ án Quản Lý Thư Viện - 2020
+# Đồ án Quản Lý Thư Viện - PTITHCM - 2020
 Thư viện: Ta tổ chức các danh sách sau: 
 - Đầu sách : danh sách tuyến tính là 1 mảng con trỏ (ISBN , Tên sách, Số trang, Tác giả, năm xuất bản, thể loại, con trỏ dms): con trỏ sẽ trỏ đến các sách thuộc đầu sách tương ứng
 - Danh mục sách : danh sách liên kết đơn( Mã sách,  trạng thái, vị trí (chuỗi)  ). Mỗi cuốn sách chỉ có 1 mã duy nhất; trạng thái của sách bao gồm: 0: cho mượn được, 1: đã có độc giả mượn, 2: sách đã thanh lý . 
@@ -19,7 +19,7 @@ Chương trình có các chức năng sau:
 
 # Cài đặt
 Đồ án sử dụng thư viện giao diện winbgim.h, chạy trên IDE DevC++.
-1. Cài đặt thư viện winbgim.
+1. Cài đặt thư viện winbgim. [https://cachhoc.net/2013/10/03/cc-do-hoa-trong-dev-c/](Xem hướng dẫn cài đặt tại đây)
 2. Tải về và giải nén source code.
 3. Mở file `QuanLyThuVien.dev` bằng DevC++ và run project.
 
@@ -34,5 +34,5 @@ Sau khi chỉnh sửa code, nhấn F12 sau đó nhấn F11 để build + run pro
 Đồ án của mình vẫn mắc một số lỗi, nhưng do đã trả đồ án nên mình không fix lại. Các bạn nếu làm đồ án này thì để ý một số điều mà mình còn thiếu sau đây:
 * Chưa có tính năng `Xóa Đầu Sách` (chỉ nhưng Đầu Sách không có sách mới được phép xóa)
 * Chưa có tính năng `Xóa Sách` khi lỡ tay nhập dư.
-* Chưa liệt kê được `các sách quá hạn` mà độc giả đã mượn
+* Chưa liệt kê được `các sách quá hạn` mà độc giả đã mượn.
 * Mỗi độc giả chỉ được mượn duy nhất 1 sách thuộc đầu sách nhất định, không cho phép mượn >= 2 sách cùng một Đầu Sách.
