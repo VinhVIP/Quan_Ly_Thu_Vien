@@ -37,3 +37,10 @@ Sau khi chỉnh sửa code, nhấn F12 sau đó nhấn F11 để build + run pro
 * Chưa có tính năng `Xóa Sách` khi lỡ tay nhập dư.
 * Chưa liệt kê được `các sách quá hạn` mà độc giả đã mượn.
 * Mỗi độc giả chỉ được mượn duy nhất 1 sách thuộc đầu sách nhất định, không cho phép mượn >= 2 sách cùng một Đầu Sách.
+
+# Một số hình ảnh
+![alt text](https://github.com/VinhVIP/Quan_Ly_Thu_Vien/blob/master/pictures/dausach.png "Đầu sách")
+![alt text](https://github.com/VinhVIP/Quan_Ly_Thu_Vien/blob/master/pictures/sach.png "Sách")
+![alt text](https://github.com/VinhVIP/Quan_Ly_Thu_Vien/blob/master/pictures/docgia.png "Độc giả")
+![alt text](https://github.com/VinhVIP/Quan_Ly_Thu_Vien/blob/master/pictures/ms.png "Mượn sách")
+![alt text](https://github.com/VinhVIP/Quan_Ly_Thu_Vien/blob/master/pictures/top.png "Top 10 Đầu sách")
