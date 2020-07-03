@@ -40,7 +40,11 @@ Sau khi chỉnh sửa code, nhấn F12 sau đó nhấn F11 để build + run pro
 
 # Một số hình ảnh
 ![alt text](https://github.com/VinhVIP/Quan_Ly_Thu_Vien/blob/master/pictures/dausach.png "Đầu sách")
+
 ![alt text](https://github.com/VinhVIP/Quan_Ly_Thu_Vien/blob/master/pictures/sach.png "Sách")
+
 ![alt text](https://github.com/VinhVIP/Quan_Ly_Thu_Vien/blob/master/pictures/docgia.png "Độc giả")
+
 ![alt text](https://github.com/VinhVIP/Quan_Ly_Thu_Vien/blob/master/pictures/ms.png "Mượn sách")
+
 ![alt text](https://github.com/VinhVIP/Quan_Ly_Thu_Vien/blob/master/pictures/top.png "Top 10 Đầu sách")
