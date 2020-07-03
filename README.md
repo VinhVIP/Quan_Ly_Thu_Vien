@@ -1,4 +1,4 @@
-# Đồ án Quản Lý Thư Viện - PTITHCM - 2020
+# CTDL & GT - Đồ án Quản Lý Thư Viện - PTITHCM - 2020
 Thư viện: Ta tổ chức các danh sách sau: 
 - `Đầu sách` : danh sách tuyến tính là 1 mảng con trỏ (ISBN , Tên sách, Số trang, Tác giả, năm xuất bản, thể loại, con trỏ dms): con trỏ sẽ trỏ đến các sách thuộc đầu sách tương ứng
 - `Danh mục sách` : danh sách liên kết đơn( Mã sách,  trạng thái, vị trí (chuỗi)  ). Mỗi cuốn sách chỉ có 1 mã duy nhất; trạng thái của sách bao gồm: 0: cho mượn được, 1: đã có độc giả mượn, 2: sách đã thanh lý . 
