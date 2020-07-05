@@ -17,6 +17,9 @@ Chương trình có các chức năng sau:
 * i. In danh sách độc giả mượn sách quá hạn theo thứ tự thời gian quá hạn giảm dần
 * j. In 10 sách có số lượt mượn nhiều nhất.
 
+# Một số đồ án tham khảo khác
+* [Đồ án Quản Lý Máy Bay - Huỳnh Phước Sang ft Nguyễn Tá Huy](https://github.com/huynhphuocsang/Quan-li-may-bay)
+
 # Cài đặt
 Đồ án sử dụng thư viện giao diện winbgim.h, chạy trên IDE DevC++.
 1. Cài đặt thư viện winbgim. [Xem hướng dẫn cài đặt tại đây](https://cachhoc.net/2013/10/03/cc-do-hoa-trong-dev-c/)
