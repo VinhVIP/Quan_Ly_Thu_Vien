@@ -19,6 +19,7 @@ Chương trình có các chức năng sau:
 
 # Một số đồ án tham khảo khác
 * [Đồ án Quản Lý Máy Bay - Huỳnh Phước Sang ft Nguyễn Tá Huy](https://github.com/huynhphuocsang/Quan-li-may-bay)
+* [Đồ án Đồ Thị - Nguyễn Trung Hiếu ft Nguyễn Văn Long](https://github.com/monarchzz/CTDL_Graph)
 
 # Cài đặt
 Đồ án sử dụng thư viện giao diện winbgim.h, chạy trên IDE DevC++.
