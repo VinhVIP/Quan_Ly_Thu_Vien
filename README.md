@@ -26,6 +26,8 @@ Chương trình có các chức năng sau:
 2. Tải về và giải nén source code.
 3. Mở file `QuanLyThuVien.dev` bằng DevC++ và run project.
 
+**Lưu ý:** Đồ án hiển thị trên màn hình Full HD (1920x1080), cỡ chữ 100%.
+
 # Một số phím tắt 
 ```
 * F12 : Rebuild project.
@@ -35,7 +37,7 @@ Chương trình có các chức năng sau:
 Sau khi chỉnh sửa code, nhấn F12 sau đó nhấn F11 để build + run project.
 
 # Những điều chưa làm được
-Đồ án của mình vẫn mắc một số lỗi, nhưng do đã trả đồ án nên mình không fix lại. Các bạn nếu làm đồ án này thì để ý một số điều mà mình còn thiếu sau đây:
+Đồ án của mình vẫn mắc một số lỗi, những do đã trả đồ án nên mình không fix lại. Các bạn nếu làm đồ án này thì để ý một số điều mà mình còn thiếu sau đây:
 * Chưa có tính năng `Xóa Đầu Sách` (chỉ nhưng Đầu Sách không có sách mới được phép xóa)
 * Chưa có tính năng `Xóa Sách` khi lỡ tay nhập dư.
 * Chưa liệt kê được `các sách quá hạn` mà độc giả đã mượn.
