@@ -20,6 +20,9 @@ Chương trình có các chức năng sau:
 # Một số đồ án tham khảo khác
 * [Đồ án Quản Lý Máy Bay - Huỳnh Phước Sang ft Nguyễn Tá Huy](https://github.com/huynhphuocsang/Quan-li-may-bay)
 * [Đồ án Đồ Thị - Nguyễn Trung Hiếu ft Nguyễn Văn Long](https://github.com/monarchzz/CTDL_Graph)
+* [Đồ án Quản lý điểm sinh viên - Quốc Bảo ft Minh Thắng ft Công Hậu](https://github.com/mccor2000/QuanLiDiemSV)
+* [Đồ án Quản lý vật tư - Chí Nhân ft Đức Khải](https://github.com/Minato1803/Materials-Management)
+* [Đồ án Quản lý vật tư - Quốc Bảo](https://drive.google.com/drive/folders/1FdtlS5Qyv0iQ4uU6Z9hs5Jvw78W2JWBG)
 
 # Cài đặt
 Đồ án sử dụng thư viện giao diện winbgim.h, chạy trên IDE DevC++.
